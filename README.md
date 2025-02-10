@@ -1,6 +1,7 @@
 # Cattery猫咖出租屋
 
-## 请在侧边／底部的release里下载“Cattery.zip”
+## 模组下载
+- **请在侧边／底部的release里下载“Cattery.zip”**
 
 ## 使用说明
 - **请使用 Mod加载器 加载本模组。**

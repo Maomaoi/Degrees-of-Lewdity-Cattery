@@ -5,7 +5,7 @@
 
 请使用 **Mod加载器** 加载本模组。
 
-需要前置模组：**简易框架**。
+需要安装前置模组：[**简易框架**](https://github.com/emicoto/SCMLSimpleFramework)或:[**秋枫白桦框架**](https://github.com/MaplebirchLeaf/SCML-DOL-maplebirchframework)
 
 ## 模组截图：
 <img width="549" height="907" alt="80a88a829951f5439837674755fb0a52" src="https://github.com/user-attachments/assets/10f70309-7e74-41ef-9dd7-c106b00b494c" />

@@ -7,6 +7,10 @@
 
 需要前置模组：**简易框架**。
 
+## 模组截图：
+<img width="549" height="907" alt="80a88a829951f5439837674755fb0a52" src="https://github.com/user-attachments/assets/10f70309-7e74-41ef-9dd7-c106b00b494c" />
+<img width="513" height="811" alt="45bf59fbb40887e9f8d38949527cde87" src="https://github.com/user-attachments/assets/f9323c02-c847-442b-bf46-bcf02a84ee33" />
+
 ## 常见问题
 
 ### 如何解锁出租屋？

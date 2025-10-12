@@ -46,8 +46,8 @@
 - 来到出租屋厨房即可做饭。
 
 ## 请注意！
-- 前置模组 **“简易框架”** 或 **秋枫白桦框架**是这个模组的必需品。
-- 如果你安装了 **“模拟人生”** 和 **“Dom罗宾”**，确保本模组装在它们后面。
+- 前置模组：[**简易框架**](https://github.com/emicoto/SCMLSimpleFramework)或[**秋枫白桦框架**](https://github.com/MaplebirchLeaf/SCML-DOL-maplebirchframework)是这个模组的必需品。
+- 如果你安装了[**模拟人生**](https://github.com/MissedHeart/Degrees-of-Lewdity-DolSims)或[**Dom罗宾**](https://github.com/ZeroRing233/Degrees-of-Lewdity-RobinMod)，请确保本模组装在它们之后。
 - 用言灵前先存档，以防使用过期言灵。
 - **若要卸载本模组模组，请先在出租屋电脑处清理数据。**
 

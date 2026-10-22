@@ -49,7 +49,7 @@
 - 前置模组：[**简易框架**](https://github.com/emicoto/SCMLSimpleFramework)或[**秋枫白桦框架**](https://github.com/MaplebirchLeaf/SCML-DOL-maplebirchframework)是这个模组的必需品。
 - 如果你安装了[**模拟人生**](https://github.com/MissedHeart/Degrees-of-Lewdity-DolSims)或[**Dom罗宾**](https://github.com/ZeroRing233/Degrees-of-Lewdity-RobinMod)，请确保本模组装在它们之后。
 - 用言灵前先存档，以防使用过期言灵。
-- **若要卸载本模组模组，请先在出租屋电脑处清理数据。**
+- **若要卸载本模组，请先在出租屋电脑处清理数据。**
 
 ## 猫咖出租屋的言灵
 - **回到出租屋**（未解锁出租屋请不要使用）：`[[快捷回家|Pc House]]`
@@ -57,8 +57,7 @@
 - **如果脸黑刷不出萨姆来可以用这个**（未装载猫咖出租屋请不要使用）：`[[领养前提剧情|Ocean Breeze Cattery Sam][$cattery_adopt to 1]]`
 
 ## 反馈交流
-- 欢迎加入[**QQ群**](https://qm.qq.com/q/X3gOaQ0qyu)或搜索群号`142237807`加入。
-- 密码为本仓库名。
+- [**点击此处**](https://qm.qq.com/q/X3gOaQ0qyu)加入QQ群或搜索QQ群号`142237807`加入。*密码为本仓库名。*
 
 ## 感谢名单
 - 阿萝拉鸢沁

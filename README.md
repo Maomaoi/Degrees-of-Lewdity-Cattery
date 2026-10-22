@@ -3,9 +3,9 @@
 
 **下载模组**请在侧边／底部的 **Releases**中下载 **Cattery.zip**。
 
-请使用 **Mod加载器**加载本模组。
+需要安装前置模组[**秋枫白桦框架**](https://github.com/MaplebirchLeaf/SCML-DOL-maplebirchframework)或[**简易框架**](https://github.com/emicoto/SCMLSimpleFramework)（旧版本）
 
-❗需要安装前置模组[**秋枫白桦框架**](https://github.com/MaplebirchLeaf/SCML-DOL-maplebirchframework)或[**简易框架**](https://github.com/emicoto/SCMLSimpleFramework)（低版本）
+请使用 **Mod加载器**加载本模组。
 
 ## 模组截图：
 <img width="549" height="907" alt="80a88a829951f5439837674755fb0a52" src="https://github.com/user-attachments/assets/10f70309-7e74-41ef-9dd7-c106b00b494c" />
@@ -57,7 +57,8 @@
 - **如果脸黑刷不出萨姆来可以用这个**（未装载猫咖出租屋请不要使用）：`[[领养前提剧情|Ocean Breeze Cattery Sam][$cattery_adopt to 1]]`
 
 ## 反馈交流
-QQ群号：142237807（密码为本仓库名）
+- 欢迎加入[**QQ群**](https://qm.qq.com/q/X3gOaQ0qyu)或搜索群号`142237807`加入。
+- 密码为本仓库名。
 
 ## 感谢名单
 - 阿萝拉鸢沁
